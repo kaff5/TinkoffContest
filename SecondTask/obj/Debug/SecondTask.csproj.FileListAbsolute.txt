@@ -1,0 +1,6 @@
+C:\Users\Maxim\source\repos\ConsoleApp1\SecondTask\bin\Debug\SecondTask.exe.config
+C:\Users\Maxim\source\repos\ConsoleApp1\SecondTask\bin\Debug\SecondTask.exe
+C:\Users\Maxim\source\repos\ConsoleApp1\SecondTask\bin\Debug\SecondTask.pdb
+C:\Users\Maxim\source\repos\ConsoleApp1\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\ConsoleApp1\SecondTask\obj\Debug\SecondTask.exe
+C:\Users\Maxim\source\repos\ConsoleApp1\SecondTask\obj\Debug\SecondTask.pdb
